@@ -38,7 +38,7 @@ class Solution {
 ### 复杂度分析
 
 - Time complexity：O(n)。其中 n 为字符串的长度。
-- Space complexity：O(n)，其中 n 为字符串的长度。
+- Space complexity：O(n)。其中 n 为字符串的长度。
 
 
 [title]: https://leetcode.com/problems/valid-parentheses/description/
