@@ -76,27 +76,4 @@ class Solution {
 - Space complexity：O(1)，只需要使用常数的额外空间。
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 [title]: https://leetcode.com/problems/longest-common-prefix/description/
