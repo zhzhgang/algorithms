@@ -15,7 +15,7 @@ Your function should return length = 2, with the first two elements of nums bein
 It doesn't matter what you leave beyond the new length.
 ```
 
-## 方法 1：递归
+## 方法
 
 ### 思路
 题意是将一个有序数组中的重复元素移除，并返回移除之后数组的长度。如果数组长度为 0 或者 1，直接返回 0 或 1。否则定义两个变量 i 和 j，如果nums[i] = nums[j]，则 j + 1 跳过重复元素；如果 nums[j] ！= nums[i]，则 nums[i + 1] = nums[j]。
