@@ -19,8 +19,8 @@
 | 53   | [Maximum Subarray][053]                  |
 | 58   | [Length of Last Word][058]               |
 | 66   | [Plus One][066]                          |
-| 67   | [Add Binary][067]                          |
-
+| 67   | [Add Binary][067]                        |
+| 69   | [Sqrt(x)][067]                           |
 
 
 
@@ -39,3 +39,4 @@
 [058]: https://github.com/zhzhgang/algorithms/tree/master/Easy/058
 [066]: https://github.com/zhzhgang/algorithms/tree/master/Easy/066
 [067]: https://github.com/zhzhgang/algorithms/tree/master/Easy/067
+[069]: https://github.com/zhzhgang/algorithms/tree/master/Easy/069
