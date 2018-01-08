@@ -20,8 +20,8 @@
 | 58   | [Length of Last Word][058]               |
 | 66   | [Plus One][066]                          |
 | 67   | [Add Binary][067]                        |
-| 69   | [Sqrt(x)][067]                           |
-| 70   | [Climbing Stairs][067]                   |
+| 69   | [Sqrt(x)][069]                           |
+| 70   | [Climbing Stairs][070]                   |
 
 
 
