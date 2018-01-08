@@ -21,6 +21,7 @@
 | 66   | [Plus One][066]                          |
 | 67   | [Add Binary][067]                        |
 | 69   | [Sqrt(x)][067]                           |
+| 70   | [Climbing Stairs][067]                   |
 
 
 
@@ -40,3 +41,4 @@
 [066]: https://github.com/zhzhgang/algorithms/tree/master/Easy/066
 [067]: https://github.com/zhzhgang/algorithms/tree/master/Easy/067
 [069]: https://github.com/zhzhgang/algorithms/tree/master/Easy/069
+[070]: https://github.com/zhzhgang/algorithms/tree/master/Easy/070
