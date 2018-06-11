@@ -23,6 +23,7 @@
 | 69   | [Sqrt(x)][069]                           |
 | 70   | [Climbing Stairs][070]                   |
 | 83   | [Remove Duplicates from Sorted List][083]                   |
+| 88   | [Merge Sorted Array][088]                   |
 
 
 
@@ -44,3 +45,4 @@
 [069]: https://github.com/zhzhgang/algorithms/tree/master/Easy/069
 [070]: https://github.com/zhzhgang/algorithms/tree/master/Easy/070
 [083]: https://github.com/zhzhgang/algorithms/tree/master/Easy/083
+[088]: https://github.com/zhzhgang/algorithms/tree/master/Easy/088
