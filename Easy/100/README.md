@@ -17,7 +17,6 @@ Input:     1         1
         [1,2,3],   [1,2,3]
 
 Output: true
-
 ```
 
 **Example 2**:
@@ -77,7 +76,7 @@ class Solution {
 
 ### 复杂度分析
 
-- Time complexity：O(n)。
+- Time complexity：O(n)，n 为 p 或 q 中较浅的一棵树的深度。
 - Space complexity：O(1)。
 
 

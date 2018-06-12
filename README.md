@@ -25,6 +25,7 @@
 | 83   | [Remove Duplicates from Sorted List][083]                   |
 | 88   | [Merge Sorted Array][088]                   |
 | 100   | [Same Tree][100]                   |
+| 101   | [Symmetric Tree][101]                   |
 
 
 
@@ -48,3 +49,4 @@
 [083]: https://github.com/zhzhgang/algorithms/tree/master/Easy/083
 [088]: https://github.com/zhzhgang/algorithms/tree/master/Easy/088
 [100]: https://github.com/zhzhgang/algorithms/tree/master/Easy/100
+[101]: https://github.com/zhzhgang/algorithms/tree/master/Easy/101
