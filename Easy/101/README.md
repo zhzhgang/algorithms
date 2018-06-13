@@ -7,7 +7,7 @@ Given a binary tree, check whether it is a mirror of itself (ie, symmetric aroun
 For example, this binary tree [1,2,2,3,4,4,3] is symmetric:
 
 ```
- 	1
+ 1
    / \
   2   2
  / \ / \
@@ -16,7 +16,7 @@ For example, this binary tree [1,2,2,3,4,4,3] is symmetric:
 But the following [1,2,2,null,3,null,3] is not:
 
 ```
-	1
+1
    / \
   2   2
    \   \
@@ -58,7 +58,7 @@ class Solution {
 ### 复杂度分析
 
 - Time complexity：O(n)，n 为树的节点总数。
-- Space complexity：递归次数决定于树的高度，在最坏的情况下，树是线型的，树的高度为 O(n)，因此最坏情况下的空间复杂度为 ）O(n)。
+- Space complexity：递归次数决定于树的高度，在最坏的情况下，树是线型的，树的高度为 O(n)，因此最坏情况下的空间复杂度为 O(n)。
 
 
 [title]: https://leetcode.com/problems/symmetric-tree/description/
