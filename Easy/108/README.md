@@ -1,7 +1,5 @@
 # [Convert Sorted Array to Binary Search Tree][title]
 
-二叉树的层次遍历 II
-
 ## Description
 
 Given an array where elements are sorted in ascending order, convert it to a height balanced BST.
