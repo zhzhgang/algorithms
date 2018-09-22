@@ -31,6 +31,7 @@
 | 108   | [Convert Sorted Array to Binary Search Tree][108]               |                 
 | 110   | [Balanced Binary Tree][110]               |
 | 111   | [Minimum Depth of Binary Tree][111]               |
+| 112   | [Path Sum][112]               |
 
 
 
@@ -58,3 +59,4 @@
 [108]: https://github.com/zhzhgang/algorithms/tree/master/Easy/108
 [110]: https://github.com/zhzhgang/algorithms/tree/master/Easy/110
 [111]: https://github.com/zhzhgang/algorithms/tree/master/Easy/111
+[112]: https://github.com/zhzhgang/algorithms/tree/master/Easy/112
