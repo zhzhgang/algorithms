@@ -32,6 +32,7 @@
 | 110   | [Balanced Binary Tree][110]               |
 | 111   | [Minimum Depth of Binary Tree][111]               |
 | 112   | [Path Sum][112]               |
+| 118   | [Pascal's Triangle][118]               |
 
 
 
@@ -60,3 +61,4 @@
 [110]: https://github.com/zhzhgang/algorithms/tree/master/Easy/110
 [111]: https://github.com/zhzhgang/algorithms/tree/master/Easy/111
 [112]: https://github.com/zhzhgang/algorithms/tree/master/Easy/112
+[118]: https://github.com/zhzhgang/algorithms/tree/master/Easy/118
