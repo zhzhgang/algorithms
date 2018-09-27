@@ -35,6 +35,7 @@
 | 118   | [Pascal's Triangle][118]               |
 | 119   | [Pascal's Triangle II][119]               |
 | 121   | [Best Time to Buy and Sell Stock][121]               |
+| 122   | [Best Time to Buy and Sell Stock II][122]               |
 
 
 
@@ -66,3 +67,4 @@
 [118]: https://github.com/zhzhgang/algorithms/tree/master/Easy/118
 [119]: https://github.com/zhzhgang/algorithms/tree/master/Easy/119
 [121]: https://github.com/zhzhgang/algorithms/tree/master/Easy/121
+[122]: https://github.com/zhzhgang/algorithms/tree/master/Easy/122
