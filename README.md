@@ -36,6 +36,7 @@
 | 119   | [Pascal's Triangle II][119]               |
 | 121   | [Best Time to Buy and Sell Stock][121]               |
 | 122   | [Best Time to Buy and Sell Stock II][122]               |
+| 125   | [Valid Palindrome][125]               |
 
 
 
@@ -68,3 +69,4 @@
 [119]: https://github.com/zhzhgang/algorithms/tree/master/Easy/119
 [121]: https://github.com/zhzhgang/algorithms/tree/master/Easy/121
 [122]: https://github.com/zhzhgang/algorithms/tree/master/Easy/122
+[125]: https://github.com/zhzhgang/algorithms/tree/master/Easy/125
