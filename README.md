@@ -37,6 +37,7 @@
 | 121   | [Best Time to Buy and Sell Stock][121]               |
 | 122   | [Best Time to Buy and Sell Stock II][122]               |
 | 125   | [Valid Palindrome][125]               |
+| 167   | [Two Sum II - Input array is sorted][167]               |
 
 
 
@@ -70,3 +71,4 @@
 [121]: https://github.com/zhzhgang/algorithms/tree/master/Easy/121
 [122]: https://github.com/zhzhgang/algorithms/tree/master/Easy/122
 [125]: https://github.com/zhzhgang/algorithms/tree/master/Easy/125
+[167]: https://github.com/zhzhgang/algorithms/tree/master/Easy/167
