@@ -43,6 +43,8 @@
 | 217   | [Contains Duplicate][217]               |
 | 219   | [Contains Duplicate II][219]               |
 | 268   | [Missing Number][268]               |
+| 283   | [Move Zeroes][283]               |
+
 
 
 
@@ -84,3 +86,4 @@
 [217]: https://github.com/zhzhgang/algorithms/tree/master/Easy/217
 [219]: https://github.com/zhzhgang/algorithms/tree/master/Easy/219
 [268]: https://github.com/zhzhgang/algorithms/tree/master/Easy/268
+[283]: https://github.com/zhzhgang/algorithms/tree/master/Easy/283
