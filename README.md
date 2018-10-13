@@ -40,6 +40,10 @@
 | 167   | [Two Sum II - Input array is sorted][167]               |
 | 169   | [Majority Element][169]               |
 | 189   | [Rotate Array][189]               |
+| 217   | [Contains Duplicate][217]               |
+| 219   | [Contains Duplicate II][219]               |
+| 268   | [Missing Number][268]               |
+
 
 
 
@@ -77,3 +81,6 @@
 [167]: https://github.com/zhzhgang/algorithms/tree/master/Easy/167
 [169]: https://github.com/zhzhgang/algorithms/tree/master/Easy/169
 [189]: https://github.com/zhzhgang/algorithms/tree/master/Easy/189
+[217]: https://github.com/zhzhgang/algorithms/tree/master/Easy/217
+[219]: https://github.com/zhzhgang/algorithms/tree/master/Easy/219
+[268]: https://github.com/zhzhgang/algorithms/tree/master/Easy/268
