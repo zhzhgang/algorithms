@@ -47,6 +47,7 @@
 | 414   | [Third Maximum Number][414]               |
 | 448   | [Find All Numbers Disappeared in an Array][448]               |
 | 485   | [Max Consecutive Ones][485]               |
+| 532   | [K-diff Pairs in an Array][532]               |
 
 
 
@@ -93,3 +94,4 @@
 [414]: https://github.com/zhzhgang/algorithms/tree/master/Easy/414
 [448]: https://github.com/zhzhgang/algorithms/tree/master/Easy/448
 [485]: https://github.com/zhzhgang/algorithms/tree/master/Easy/485
+[532]: https://github.com/zhzhgang/algorithms/tree/master/Easy/532
