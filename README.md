@@ -54,6 +54,7 @@
 | 628   | [Maximum Product of Three Numbers][628]               |
 | 643   | [Maximum Average Subarray I][643]               |
 | 661   | [Image Smoother][661]               |
+| 665   | [Non-decreasing Array][665]               |
 
 
 
@@ -106,3 +107,4 @@
 [628]: https://github.com/zhzhgang/algorithms/tree/master/Easy/628
 [643]: https://github.com/zhzhgang/algorithms/tree/master/Easy/643
 [661]: https://github.com/zhzhgang/algorithms/tree/master/Easy/661
+[665]: https://github.com/zhzhgang/algorithms/tree/master/Easy/665
