@@ -50,7 +50,8 @@
 | 532   | [K-diff Pairs in an Array][532]               |
 | 561   | [Array Partition I][561]               |
 | 581   | [Shortest Unsorted Continuous Subarray][581]               |
-| 605   | [Can Place Flowers][581]               |
+| 605   | [Can Place Flowers][605]               |
+| 628   | [Maximum Product of Three Numbers][628]               |
 
 
 
@@ -101,3 +102,4 @@
 [561]: https://github.com/zhzhgang/algorithms/tree/master/Easy/561
 [581]: https://github.com/zhzhgang/algorithms/tree/master/Easy/581
 [605]: https://github.com/zhzhgang/algorithms/tree/master/Easy/605
+[628]: https://github.com/zhzhgang/algorithms/tree/master/Easy/628
