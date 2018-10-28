@@ -49,6 +49,8 @@
 | 485   | [Max Consecutive Ones][485]               |
 | 532   | [K-diff Pairs in an Array][532]               |
 | 561   | [Array Partition I][561]               |
+| 581   | [Shortest Unsorted Continuous Subarray][581]               |
+| 605   | [Can Place Flowers][581]               |
 
 
 
@@ -97,3 +99,5 @@
 [485]: https://github.com/zhzhgang/algorithms/tree/master/Easy/485
 [532]: https://github.com/zhzhgang/algorithms/tree/master/Easy/532
 [561]: https://github.com/zhzhgang/algorithms/tree/master/Easy/561
+[581]: https://github.com/zhzhgang/algorithms/tree/master/Easy/581
+[605]: https://github.com/zhzhgang/algorithms/tree/master/Easy/605
