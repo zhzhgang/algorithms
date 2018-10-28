@@ -52,7 +52,7 @@
 | 581   | [Shortest Unsorted Continuous Subarray][581]               |
 | 605   | [Can Place Flowers][605]               |
 | 628   | [Maximum Product of Three Numbers][628]               |
-
+| 643   | [Maximum Average Subarray I][643]               |
 
 
 
@@ -103,3 +103,4 @@
 [581]: https://github.com/zhzhgang/algorithms/tree/master/Easy/581
 [605]: https://github.com/zhzhgang/algorithms/tree/master/Easy/605
 [628]: https://github.com/zhzhgang/algorithms/tree/master/Easy/628
+[643]: https://github.com/zhzhgang/algorithms/tree/master/Easy/643
